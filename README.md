@@ -1,4 +1,6 @@
 kbar
 ====
 
-New home construction
+K bar github repository!
+
+Lots of valuable stuff in here...
